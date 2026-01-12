@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://arp690/github.io/task-management-frontend/static/css/main.985582f7.css",
+    "main.js": "https://arp690/github.io/task-management-frontend/static/js/main.e013e340.js",
+    "index.html": "https://arp690/github.io/task-management-frontend/index.html",
+    "main.985582f7.css.map": "https://arp690/github.io/task-management-frontend/static/css/main.985582f7.css.map",
+    "main.e013e340.js.map": "https://arp690/github.io/task-management-frontend/static/js/main.e013e340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.e013e340.js"
+  ]
+}
